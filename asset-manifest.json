@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Daily-Menu-May-2023/static/css/main.42019b35.css",
+    "main.js": "/Daily-Menu-May-2023/static/js/main.43ff0448.js",
+    "static/media/pilaf.jpg": "/Daily-Menu-May-2023/static/media/pilaf.32118fb1594cc58d8fc2.jpg",
+    "static/media/cheese-nuts.jpg": "/Daily-Menu-May-2023/static/media/cheese-nuts.f412f9f905922b597209.jpg",
+    "static/media/prawns.jpg": "/Daily-Menu-May-2023/static/media/prawns.4c76e6eb6ba244d869e5.jpg",
+    "static/media/scramble-simple.jpg": "/Daily-Menu-May-2023/static/media/scramble-simple.f2a3385ecea874bffd01.jpg",
+    "static/media/PastaShrimps.jpg": "/Daily-Menu-May-2023/static/media/PastaShrimps.b0dbd5d15e1c6c434382.jpg",
+    "static/media/cherry-pie.jpg": "/Daily-Menu-May-2023/static/media/cherry-pie.c5494db533e26ccca5d0.jpg",
+    "static/media/chicken-soup.jpg": "/Daily-Menu-May-2023/static/media/chicken-soup.17ee4f7749425f21826d.jpg",
+    "static/media/cottage-cheese-fritters.jpg": "/Daily-Menu-May-2023/static/media/cottage-cheese-fritters.3ba1ab07a58f752da795.jpg",
+    "static/media/oatmeal.jpg": "/Daily-Menu-May-2023/static/media/oatmeal.d3a23b716b27ba70eebe.jpg",
+    "static/media/scramble-cheese-sausages.jpg": "/Daily-Menu-May-2023/static/media/scramble-cheese-sausages.85f35e659a7ca78c7b81.jpg",
+    "static/media/shawarma.jpg": "/Daily-Menu-May-2023/static/media/shawarma.0b792605a29c4f692fd9.jpg",
+    "static/media/fruit-salad.jpg": "/Daily-Menu-May-2023/static/media/fruit-salad.d9fe3665221b99d5e637.jpg",
+    "static/media/dumplings-on-a-pan.jpg": "/Daily-Menu-May-2023/static/media/dumplings-on-a-pan.d6ffa63d3aeccc95f005.jpg",
+    "static/media/buckwheat.jpg": "/Daily-Menu-May-2023/static/media/buckwheat.2ec6cdb8e73322b8ebad.jpg",
+    "static/media/baked-chicken.jpg": "/Daily-Menu-May-2023/static/media/baked-chicken.e35105f8812824c76af7.jpg",
+    "static/media/toasts-cocoa.jpg": "/Daily-Menu-May-2023/static/media/toasts-cocoa.7f1b14b1cd5f76524ded.jpg",
+    "index.html": "/Daily-Menu-May-2023/index.html",
+    "main.42019b35.css.map": "/Daily-Menu-May-2023/static/css/main.42019b35.css.map",
+    "main.43ff0448.js.map": "/Daily-Menu-May-2023/static/js/main.43ff0448.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42019b35.css",
+    "static/js/main.43ff0448.js"
+  ]
+}
