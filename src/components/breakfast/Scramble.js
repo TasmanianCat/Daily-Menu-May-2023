@@ -54,7 +54,7 @@ function Scramble() {
     const handleShowReceipe = () => {
         document.querySelector('.hidden').classList.toggle('show');
     }
-    //
+
     return (
         <div>
             {imageMeal.map(({ id }) => (
