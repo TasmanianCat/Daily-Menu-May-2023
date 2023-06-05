@@ -73,7 +73,7 @@ function Scramble() {
                         <strong>
                             {procedure}
                         </strong><br />
-                        <u>
+                        <u className='step'>
                             {step1}
                         </u><br />
                         <em>
@@ -82,7 +82,7 @@ function Scramble() {
                         <em>
                             {li012}
                         </em><br />
-                        <u>
+                        <u className='step'>
                             {step2}
                         </u><br />
                         <em>
@@ -91,7 +91,7 @@ function Scramble() {
                         <em>
                             {li022}
                         </em><br />
-                        <u>
+                        <u className='step'>
                             {step3}
                         </u><br />
                         <em>
@@ -100,7 +100,7 @@ function Scramble() {
                         <em>
                             {li032}
                         </em><br />
-                        <u>
+                        <u className='step'>
                             {step4}
                         </u><br />
                         <em>
@@ -109,7 +109,7 @@ function Scramble() {
                         <em>
                             {li042}
                         </em><br />
-                        <u>
+                        <u className='step'>
                             {step5}
                         </u><br />
                         <em>
@@ -118,7 +118,7 @@ function Scramble() {
                         <em>
                             {li052}
                         </em><br />
-                        <u>
+                        <u className='step'>
                             {step6}
                         </u><br />
                         <em>

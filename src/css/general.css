@@ -49,6 +49,12 @@ p {
     padding-bottom: 1rem;
 }
 
+.step {
+    font-weight: 600;
+    color: rgb(100, 120, 130);
+    line-height: 2;
+}
+
 button {
     min-width: 180px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
