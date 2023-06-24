@@ -51,7 +51,7 @@ function Scramble() {
         }
     ]
     // A function to show receipe
-    const handleShowReceipe = () => {
+    const handleShowReceipeBreakfast = () => {
         document.querySelector('.hidden').classList.toggle('show');
     }
 
@@ -65,9 +65,9 @@ function Scramble() {
                 <p key={id}>The best from the best {category} today is <strong>{name}</strong>.<br />Some ingredients that you need are: {ingredient1}, {ingredient2}, {ingredient3}, {ingredient4}.<br />Time to cook this meal is about {cookingTime}.<br />This is a {category} recipe for {numberOfPersons}.<br />{description}</p>
             ))}
 
-            <p id='showHidden' className='show-hidden' onClick={handleShowReceipe}><strong><u>Show / Hide recipe</u></strong></p>
+            <p className='show-hidden' onClick={handleShowReceipeBreakfast}><strong><u>Show / Hide recipe</u></strong></p>
 
-            <div id='recipe' className='hidden'>
+            <div className='hidden'>
                 {instruction.map(({ id, procedure, step1, li011, li012, step2, li021, li022, step3, li031, li032, step4, li041, li042, step5, li051, li052, step6, li061, li062, li063, li064, wishes }) => (
                     <p key={id}>
                         <strong>
